@@ -66,7 +66,7 @@ class ApartmentsSeeder extends Seeder
                 'price' => 3424525,
                 'general_information' => 'Nha to dep',
                 'details' => 'Nha rat rong 50m2',
-                'thumbnail' => 'https://moigioicanhan.com/wp-content/uploads/2020/01/can-ho-chung-cu-7-1024x576.jpg',
+                'thumbnail' => 'https://moigioicanhawn.com/wp-content/uploads/2020/01/can-ho-chung-cu-7-1024x576.jpg',
                 'status' => 1,
             ],
             [
